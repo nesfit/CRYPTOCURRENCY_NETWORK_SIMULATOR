@@ -1,0 +1,2 @@
+# CRYPTOCURRENCY_NETWORK_SIMULATOR
+Bitcoin-based cryptocurrency network simulator
